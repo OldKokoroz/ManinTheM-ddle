@@ -17,4 +17,4 @@
 
     mıtm.py -t (target ip) -r (modem / router ip) 
 
-   !!! To stop poisoning Ctrl+c (It will send 5 packets to finish fooling both victim and router) !!!
+   !!! To stop poisoning Ctrl+c (It will send 5 more packets to finish fooling both victim and router) !!!
